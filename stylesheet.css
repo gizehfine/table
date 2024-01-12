@@ -37,3 +37,6 @@ tbody td:first-child {
 tfoot {
     background-color: red;
 }
+span {
+    color: violet;
+}
